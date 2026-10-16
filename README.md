@@ -1,17 +1,17 @@
-﻿# \# Git Lab Project
+# Git Lab Project
 
-# 
+## About
 
-# \## About
+This project is a Git practice lab.
 
-# 
+Practicing Git and GitHub commands.
 
-# This project is a Git practice lab.
+Edited directly on GitHub.
 
-# 
+## Description
 
-# Practicing Git and GitHub commands.
+A hands-on lab repository for practicing Git and GitHub.
 
-# 
+## Contributors
 
-# Edited directly on GitHub.
+- Atharva
